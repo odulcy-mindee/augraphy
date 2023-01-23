@@ -29,7 +29,7 @@ setuptools.setup(
     python_requires=">=3.7",
     install_requires=[
         "numpy >= 1.20.1",
-        "opencv-python >= 4.5.1.48",
+        "opencv-python >= 4.4.0.46",
         "scikit-learn >= 0.0",
         "scipy >= 1.6.3",
     ],
